@@ -9,12 +9,19 @@ const breadcrumbList = currentUrlPath.split("/").slice(1);
 // if breadcrumb is Home > Posts > 1 <etc>
 // replace Posts with Posts (page number)
 breadcrumbList[0] === "posts" &&
-  breadcrumbList.splice(0, 2, `Posts (page ${breadcrumbList[1] || 1})`);
+  breadcrumbList.splice(0, 2, `Actualités (page ${breadcrumbList[1] || 1})`);
+
+breadcrumbList[0] === "tags" &&
+  breadcrumbList.splice(0, 2, "Mots clés");
+
+breadcrumbList[0] === "about" &&
+  breadcrumbList.splice(0, 2, "À propos");
+  
 ---
 
 <nav class="breadcrumb" aria-label="breadcrumb">
   <ul>
-    <li><a href="/">Home</a></li>
+    <li><a href="/">Accueil</a></li>
     {
       breadcrumbList.map((breadcrumb, index) => (
         <li>

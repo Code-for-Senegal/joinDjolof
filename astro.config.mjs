@@ -7,7 +7,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-paper.pages.dev/",
+  site: "https://joindjolof.netlify.app/",
   integrations: [
     tailwind({
       config: {
@@ -19,11 +19,17 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [
-      remarkToc,
+      [
+        remarkToc,
+        {
+          heading: 'Table des matières'
+        }
+      ],
       [
         remarkCollapse,
         {
-          test: "Table of contents",
+          test: "Table des matières",
+          summary: "Ouvrir"
         },
       ],
     ],

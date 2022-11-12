@@ -19,7 +19,7 @@ const sortedPosts = getSortedPosts(posts);
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Mingalaba</h1>
+      <h1>Sunu réseau social</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -37,17 +37,13 @@ const sortedPosts = getSortedPosts(posts);
       </a>
 
       <p>
-        AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme.
-        This theme is aimed to be accessible out of the box. Light and dark mode
-        are supported by default and additional color schemes can also be
-        configured. Read posts or see the <LinkButton
+        Djolof est votre <LinkButton
           className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper#readme"
-          >documentation</LinkButton
-        > for more info.
+          href="https://github.com/Code-for-Senegal/joinDjolof#readme"
+          >Instance Mastodon</LinkButton> par des Sénégalais pour des Sénégalais.
       </p>
       <div class="social-wrapper">
-        <div class="social-links">Social Links:</div>
+        <div class="social-links">Liens sociaux:</div>
         <Socials />
       </div>
     </section>
@@ -55,7 +51,7 @@ const sortedPosts = getSortedPosts(posts);
     <Hr />
 
     <section id="featured">
-      <h2>Featured</h2>
+      <h2>Le Projet Djolof</h2>
       <ul>
         {
           sortedPosts.map(
@@ -75,7 +71,7 @@ const sortedPosts = getSortedPosts(posts);
     <Hr />
 
     <section id="recent-posts">
-      <h2>Recent Posts</h2>
+      <h2>L'actualités</h2>
       <ul>
         {
           sortedPosts.map(
@@ -92,7 +88,7 @@ const sortedPosts = getSortedPosts(posts);
       </ul>
       <div class="all-posts-btn-wrapper">
         <LinkButton href="/posts">
-          All Posts
+          Voir plus
           <svg xmlns="http://www.w3.org/2000/svg"
             ><path
               d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"

@@ -21,9 +21,9 @@ const searchList = posts
   }));
 ---
 
-<Layout title={`Search | ${SITE.title}`}>
+<Layout title={`Recherche | ${SITE.title}`}>
   <Header activeNav="search" />
-  <Main pageTitle="Search" pageDesc="Search any article ...">
+  <Main pageTitle="Recherche" pageDesc="Rechercher n'importe quel article ...">
     <Search client:load searchList={searchList} />
   </Main>
   <Footer />

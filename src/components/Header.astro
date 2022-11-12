@@ -7,7 +7,7 @@ import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "search";
+  activeNav?: "Actualités" | "tags" | "À propos" | "Recherche";
 }
 
 const { activeNav } = Astro.props;
@@ -43,7 +43,7 @@ const { activeNav } = Astro.props;
       <ul>
         <li>
           <a href="/posts" class={activeNav === "posts" ? "active" : ""}
-            >Posts</a
+            >Actualités</a
           >
         </li>
         <li>
@@ -51,7 +51,7 @@ const { activeNav } = Astro.props;
         </li>
         <li>
           <a href="/about" class={activeNav === "about" ? "active" : ""}
-            >About</a
+            >À&nbsp;propos</a
           >
         </li>
       </ul>
@@ -62,7 +62,7 @@ const { activeNav } = Astro.props;
             activeNav === "search" ? "active" : ""
           }`}
           ariaLabel="search"
-          title="Search"
+          title="Recherche"
         >
           <svg xmlns="http://www.w3.org/2000/svg"
             ><path

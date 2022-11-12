@@ -4,8 +4,10 @@ import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Tag from "@components/Tag.astro";
 import Datetime from "@components/Datetime";
+import Editpage from "@components/Editpage";
 import type { MarkdownInstance } from "astro";
 import type { Frontmatter } from "src/types";
+import { SOCIALS } from "src/config";
 
 export interface Props {
   post: MarkdownInstance<Frontmatter>;
@@ -13,7 +15,7 @@ export interface Props {
 
 const { frontmatter, Content } = Astro.props.post;
 
-const { title, author, description, ogImage, datetime, tags } = frontmatter;
+const { title, author, description, ogImage, datetime, tags, slug } = frontmatter;
 ---
 
 <Layout
@@ -32,7 +34,7 @@ const { title, author, description, ogImage, datetime, tags } = frontmatter;
         ><path
           d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"
         ></path>
-      </svg><span>Go back</span>
+      </svg><span>Page précédente</span>
     </button>
   </div>
   <main id="main-content">
@@ -45,6 +47,7 @@ const { title, author, description, ogImage, datetime, tags } = frontmatter;
     <ul class="tags-container">
       {tags.map(tag => <Tag name={tag} />)}
     </ul>
+    <Editpage link={`${SOCIALS[0].href}/blob/main/src/contents/${slug}.md`} size="lg" className="my-2" />
   </main>
   <Footer />
 </Layout>
