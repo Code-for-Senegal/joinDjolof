@@ -37,7 +37,7 @@ Mastodon est conçu pour être une plateforme sans publicité. Pour cette raison
 
 Pour voir le jour Djolof à besoin de vos dons
 
-[faire un don](https://maajjal.com/)
+[faire un don](https://maajjal.com/app/campagnes/djolof)
 
 ### Nos projets
 
