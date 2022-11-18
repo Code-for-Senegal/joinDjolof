@@ -35,9 +35,10 @@ Mastodon est conçu pour être une plateforme sans publicité. Pour cette raison
 
 ## Faire un Don
 
-Pour voir le jour Djolof à besoin de vos dons
+Pour voir le jour Djolof à besoin de vos dons, si vous souhaitez faire un don, cela est évidemment bienvenu et nous vous invitons à vous rendre à l'une des adresses suivantes :
 
-[faire un don](https://maajjal.com/app/campagnes/djolof)
+- [Koparexpress](https://koparexpress.com/apps/collectes/5m2l06uj)
+- [Maajjal](https://maajjal.com/app/campagnes/djolof)
 
 ### Nos projets
 

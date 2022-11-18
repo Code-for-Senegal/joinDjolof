@@ -33,8 +33,9 @@ Instance Mastodon hébergée en <Pays> chez <Cloud> et maintenue par [@joinDjolo
 
 Cette instance est financée de manière participative, elle coûte environ. par mois uniquement en tenant compte des frais d'infrastructures.
 
-Si vous souhaitez faire un don, cela est évidemment bienvenu et je vous invite à vous rendre à l'une des adresses suivantes :
+Si vous souhaitez faire un don, cela est évidemment bienvenu et nous vous invitons à vous rendre à l'une des adresses suivantes :
 
-- [faire un don](https://maajjal.com/app/campagnes/djolof)
+- [Koparexpress](https://koparexpress.com/apps/collectes/5m2l06uj)
+- [Maajjal](https://maajjal.com/app/campagnes/djolof)
 
 ## Données personnelles
