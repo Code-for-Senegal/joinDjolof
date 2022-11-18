@@ -39,3 +39,27 @@ Si vous souhaitez faire un don, cela est évidemment bienvenu et nous vous invit
 - [Maajjal](https://maajjal.com/app/campagnes/djolof)
 
 ## Données personnelles
+
+Vos données personnelles et leur contenu se trouvent sur l’Instance. Cela signifie que seuls les administrateurs d’Instance peuvent y avoir accès (comme sur toutes les plateformes sociales).
+
+Nous ne vendons, ni ne faisons aucun traitement sur vos données personnelles afin de protéger votre vie privée.
+
+## Modération active contre le racisme, le sexisme, l'homophobie et la transphobie
+
+...
+
+## Pacte de serveur Mastodon
+
+Nous respectons les recommandations suivantes de [Mastodon](https://joinmastodon.org/fr/covenant).
+
+### Sauvegardes quotidiennes
+
+Nous disposons d'une stratégie de sauvegarde pour vous fournir un service public.
+
+### Au moins une autre personne disposant d'un accès d'urgence à l'infrastructure du serveur
+
+Pour répondre aux urgences techniques, le serveur est co-administration.
+
+### Engagement de prévenir les utilisateurs au moins 3 mois à l'avance en cas de fermeture
+
+C'est le cycle de la vie. Mais votre compte ne disparaîtra pas du jour au lendemain, nous engageons à vous donner 3 mois afin que vous ayez le temps d'exporter vos données et de trouver un autre serveur.
