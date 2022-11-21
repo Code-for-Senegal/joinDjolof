@@ -44,9 +44,9 @@ Vos données personnelles et leur contenu se trouvent sur l’Instance. Cela sig
 
 Nous ne vendons, ni ne faisons aucun traitement sur vos données personnelles afin de protéger votre vie privée.
 
-## Modération active contre le racisme, le sexisme, l'homophobie et la transphobie
+## Modération active contre le racisme, le sexisme, l'homophobie et la transphobie 
 
-...
+Modérationd de contenus depuis le Senegal
 
 ## Pacte de serveur Mastodon
 
