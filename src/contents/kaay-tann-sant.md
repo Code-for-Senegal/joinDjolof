@@ -47,3 +47,16 @@ Parmi les 24 propositions de nom
 ### [Faites votre Choix](https://forms.gle/LQP3up4YKqoLuD6f6)
 
 ### [Consultez les résultats](https://docs.google.com/forms/d/e/1FAIpQLSfhZNg7XJAMEf0D2nzjIWJ51hHOWI5Vn3FqpgJGX2skTtBXyQ/viewanalytics)
+
+## Djolof à besoin de votre aide
+
+### Faire un Don
+
+Pour voir le jour Djolof à besoin de vos dons, si vous souhaitez faire un don, cela est évidemment bienvenu et nous vous invitons à vous rendre à l’une des adresses suivantes :
+
+- [Koparexpress](https://koparexpress.com/apps/collectes/5m2l06uj)
+- [Maajjal](https://maajjal.com/app/campagnes/djolof)
+
+### Rejoindre les volontaires
+
+[Rejoindre la communauté](https://github.com/Code-for-Senegal/joinDjolof/discussions)

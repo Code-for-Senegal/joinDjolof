@@ -26,3 +26,16 @@ Pour bien démarrer ensemble pourquoi pas choisir un nom ensemble, nous vous inv
 ### [Faites votre proposition ICI](https://forms.gle/TrYNk2ScrSYbpQzJ8)
 
 ### [Consultez les propositions](https://docs.google.com/forms/d/e/1FAIpQLSexvCwufenqX9qis4KkYDpw-q8Yah8dj3huMXvOO5H3UgOvtw/viewanalytics?usp=form_confirm)
+
+## Djolof à besoin de votre aide
+
+### Faire un Don
+
+Pour voir le jour Djolof à besoin de vos dons, si vous souhaitez faire un don, cela est évidemment bienvenu et nous vous invitons à vous rendre à l’une des adresses suivantes :
+
+- [Koparexpress](https://koparexpress.com/apps/collectes/5m2l06uj)
+- [Maajjal](https://maajjal.com/app/campagnes/djolof)
+
+### Rejoindre les volontaires
+
+[Rejoindre la communauté](https://github.com/Code-for-Senegal/joinDjolof/discussions)
